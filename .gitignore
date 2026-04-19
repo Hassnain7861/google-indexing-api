@@ -1,0 +1,6 @@
+*.json
+!requirements*.json
+*.txt
+!requirements.txt
+__pycache__/
+.env
